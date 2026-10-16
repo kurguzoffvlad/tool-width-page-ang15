@@ -1,6 +1,6 @@
 {
     "name": "tool-width-page-ang15",
-    "version": "0.0.9",
+    "version": "0.0.10",
     "description": "Библиотека для задания максимальной ширины страницы",
     "author": "Vladimir Kurguzov <kurguzov74@gmail.com>",
     "peerDependencies": {
