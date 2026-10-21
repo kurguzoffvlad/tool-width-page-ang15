@@ -5,13 +5,13 @@ import {ToolWidthPageAng15RoutingModule} from "./tool-width-page-ang15-routing.m
 
 
 @NgModule({
-    declarations: [
-        ToolWidthPageAng15Component
-    ],
-    imports: [ToolWidthPageAng15RoutingModule],
-    exports: [
-        ToolWidthPageAng15Component
-    ]
+	declarations: [
+		ToolWidthPageAng15Component
+	],
+	imports: [ToolWidthPageAng15RoutingModule],
+	exports: [
+		ToolWidthPageAng15Component
+	]
 })
 export class ToolWidthPageAng15Module {
 }
