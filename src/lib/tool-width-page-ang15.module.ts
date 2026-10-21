@@ -1,7 +1,7 @@
-import {NgModule} from '@angular/core';
+import { NgModule } from '@angular/core';
 
-import {ToolWidthPageAng15Component} from './tool-width-page-ang15.component';
-import {ToolWidthPageAng15RoutingModule} from "./tool-width-page-ang15-routing.module";
+import { ToolWidthPageAng15Component } from './tool-width-page-ang15.component';
+import { ToolWidthPageAng15RoutingModule } from "./tool-width-page-ang15-routing.module";
 
 
 @NgModule({
